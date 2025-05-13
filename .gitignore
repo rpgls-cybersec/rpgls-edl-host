@@ -1,0 +1,6 @@
+.git/
+Blacklist_IOC_Hash.txt
+*.csv
+Vulnerability.txt
+error.log
+upload.csv
