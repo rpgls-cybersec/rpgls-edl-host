@@ -3478,3 +3478,6 @@ generalmills.pro/
 blast-hubs.com/
 stormlegue.com/
 mercharena.biz/
+112.217.151.10/pms.exe
+112.217.151.10/statx.exe
+112.217.151.10/mm.exe
