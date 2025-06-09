@@ -3533,3 +3533,5 @@ solinec.com/APi/1YjDl_aUXTsHrhxiufjU0fBe4d2wsameerm3wJl_LX.php
 192.3.95.152/cloudshare/atr/trm
 192.3.95.152/cloudshare/atr/pull.pdf
 googl-6c11f.web.app/job/9867648797586_Scan_15052025-736574.html
+169.254.169.254/latest/meta-data/ami-id
+185.100.157.74/payload.exe
