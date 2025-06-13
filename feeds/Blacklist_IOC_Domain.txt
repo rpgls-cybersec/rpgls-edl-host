@@ -7340,3 +7340,8 @@ homebrewrp.com
 panel-spectrum.net
 brewory.com
 rugme.cat
+r1deepseek-ai.com
+app-updater2.app
+app-updater.app
+app-updater1.app
+deepseek-platform.com
