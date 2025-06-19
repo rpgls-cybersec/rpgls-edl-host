@@ -3559,3 +3559,5 @@ rlim.com/seraswodinsx/raw
 popcorn-soft.glitch.me/popcornsoft.me
 pastejustit.com/raw/tfauzcl5xj
 pastebin.com/raw/LC0H4rhJ
+192.30.241.106:56001/
+147.124.219.157:3243/
