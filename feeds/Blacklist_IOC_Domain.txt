@@ -7989,3 +7989,8 @@ secfileshare.com
 kpuszkiev.com
 ru-exchange.com
 oblast-ru.com
+market.ransomed.biz
+cdn.ransomed.biz
+autodiscover.ransomed.biz
+mail.ransomed.biz
+autoconfig.ransomed.biz
