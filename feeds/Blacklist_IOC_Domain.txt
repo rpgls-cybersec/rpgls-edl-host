@@ -7809,3 +7809,4 @@ jup.co.com.trezor-wallet.io
 jupiterwallet.co.com.trezor-wallet.io
 extprojectdev.top
 snipersol.com
+peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion
