@@ -3661,3 +3661,10 @@ pharmacynod.com/16625
 181.174.164.2/sdvpqcm
 181.174.164.12/kyc
 ssh.poolntp.com/api.php
+64.95.10.209:443/
+api.glazeceramics.com:443/
+doc.docu-duplicator.com:53/
+159.65.241.37:443/
+162.33.179.247:8443/
+67.217.228.55:443/
+doc2.docu-duplicator.com:53/
