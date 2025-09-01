@@ -8172,3 +8172,7 @@ message.mailboxarea.cloud
 mosreg.docworldme.com
 auth.allcloudindex.com
 emails-cloud.com
+cloudflare.redirectpartners.com
+findcloudflare.com
+velo.qaubctgg.workers.dev
+files.qaubctgg.workers.dev
