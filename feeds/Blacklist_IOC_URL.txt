@@ -3786,3 +3786,7 @@ example.established.site/p.zip
 anhemvn4.com/5btc.zip
 www.carrozzeriatrieste.net/Patch_Aruba.zip
 www.carrozzeriatrieste.net/Patch_Aruba.txt
+81.19.136.241:9942/
+88.214.26.37:9942/
+193.124.203.226:9942/
+141.98.82.198:9942/
