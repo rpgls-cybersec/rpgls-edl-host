@@ -8176,3 +8176,6 @@ cloudflare.redirectpartners.com
 findcloudflare.com
 velo.qaubctgg.workers.dev
 files.qaubctgg.workers.dev
+block-digital.online
+driverservices.store
+fileripple.com

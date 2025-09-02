@@ -3791,3 +3791,11 @@ www.carrozzeriatrieste.net/Patch_Aruba.txt
 193.124.203.226:9942/
 141.98.82.198:9942/
 cjhsbam.com/payload/runner.ps1
+45.159.248.110/
+block-digital.online/drivers/cam_driver
+driverservices.store/visiodrive/arm64-fixernew
+45.89.53.54/
+driverservices.store/visiodrive/nvidiaRelease.zip
+103.231.75.101:8888/
+driverservices.store/visiodrive/arm64-fixer
+driverservices.store/visiodrive/nvidiaReleasenew.zip
