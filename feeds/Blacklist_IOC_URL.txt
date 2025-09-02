@@ -3790,3 +3790,4 @@ www.carrozzeriatrieste.net/Patch_Aruba.txt
 88.214.26.37:9942/
 193.124.203.226:9942/
 141.98.82.198:9942/
+cjhsbam.com/payload/runner.ps1
