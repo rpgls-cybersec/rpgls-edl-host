@@ -3923,3 +3923,8 @@ nr3cgovpk.org/
 vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion/
 advertipros.com/?u=script
 yvetteaikenministries.com/?u=file
+wss://onedrive.azure-app.store/ws
+wss://api.twmoc.info/ws
+aesthetic-donut-1af43s2.netlify.app/file/rar
+aesthetic-donut-1af43s2.netlify.app/file/zip
+80.85.154.48:443/
