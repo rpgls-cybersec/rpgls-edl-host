@@ -3928,3 +3928,12 @@ wss://api.twmoc.info/ws
 aesthetic-donut-1af43s2.netlify.app/file/rar
 aesthetic-donut-1af43s2.netlify.app/file/zip
 80.85.154.48:443/
+iloveanimals.shop/user/login
+root.iloveanimals.shop/download/game_cache
+iloveanimals.shop/
+root.iloveanimals.shop/download/save_data
+root.iloveanimals.shop/panelping
+root.stealituptaded.lol/download/game_cache
+root.stealituptaded.lol/download/stats_db
+root.iloveanimals.shop/download/stats_db
+root.stealituptaded.lol/download/save_data
