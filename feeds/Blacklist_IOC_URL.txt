@@ -3937,3 +3937,14 @@ root.stealituptaded.lol/download/game_cache
 root.stealituptaded.lol/download/stats_db
 root.iloveanimals.shop/download/stats_db
 root.stealituptaded.lol/download/save_data
+7.tcp.ngrok.io:22426/
+9.tcp.ngrok.io:23955
+9.tcp.ngrok.io:24080/
+5.tcp.ngrok.io:22934/
+files.catbox.moe/i5wcp9.zip
+files.catbox.moe/91noox.zip
+archive.org/download/optimized_msi_20250814/optimized_MSI.png
+educa.rr.gov.br/resources/img/1.png
+mohamedayesh.com/z.txt
+198.55.98.29/FF/VXVXH6.zip
+198.55.98.29/FF/stein.txt
