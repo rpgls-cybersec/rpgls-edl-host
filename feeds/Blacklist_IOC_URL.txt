@@ -3949,3 +3949,6 @@ mohamedayesh.com/z.txt
 198.55.98.29/FF/VXVXH6.zip
 198.55.98.29/FF/stein.txt
 globe.anotherlevel.app/api/set_status/
+"paste.c-net.org/PasadenaDeepest 
+
+paste.c-net.org/LeatherBlending"
