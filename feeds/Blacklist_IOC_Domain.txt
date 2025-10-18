@@ -8551,3 +8551,5 @@ homebrewfaq.org
 homebrewupdate.org
 sbufiles.cloud
 promoukrnet.xyz
+app.blance.workers.dev
+cdn.kindylib.info
