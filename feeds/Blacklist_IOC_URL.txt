@@ -3980,3 +3980,9 @@ dn721709.ca.archive.org/0/items/optimized_msi_pro_with_b64_202509/optimized_MSI_
 serverdata-cloud.cloud/output_image.bmp
 omnileadzdev.s3.amazonaws.com/PBfbN58lX
 kia-almotores.s3.amazonaws.com/sy1cyjt
+pub-2149a070e76f4ccabd67228f754768dc.r2.dev/I-Google-Captcha-Continue-Latest-27-L-1.html
+mimikatzlogs@anti.pm/
+chatgptitalia.net/
+mimikatz@anti.pm/
+104.164.55.7/231/means.d
+185.141.216.127/tr.e
