@@ -4008,3 +4008,7 @@ ws://web.commoncome.online:8080/client
 safeupload.online/uploadfiles
 web071zoom.us/fix/audio-fv/7217417464
 web071zoom.us/fix/audio/4542828056
+gloryweb.vip/mm46.msi
+gloryweb.vip/lin/javarunprocess
+gloryweb.vip/lin/go.sh
+gloryweb.vip/lin/config.json
