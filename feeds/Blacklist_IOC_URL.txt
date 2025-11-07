@@ -4037,3 +4037,5 @@ z2tw.xin/
 3381536ffe13739277b0a87c08a66596.bulinouui.sbs/
 twswzz.icu/
 5289c03d6d33ac4cf474de436f6bbf47.bulinouui.sbs/
+"websocket-api2.publicvm.com/images/jpg-to-png.php
+www.npmjs.help/login"

@@ -8740,3 +8740,6 @@ cq1tw.icu
 z2tw.vip
 z2tw.xin
 jpjpz1.vip
+img-data-backup.b-cdn.net
+websocket-api2.publicvm.com
+static-mw-host.b-cdn.net
