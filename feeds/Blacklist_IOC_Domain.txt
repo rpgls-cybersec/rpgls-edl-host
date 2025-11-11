@@ -8746,3 +8746,9 @@ static-mw-host.b-cdn.net
 yuknkap4im65njr3tlprnpqwj4h7aal4hrn2tdieg75rpp6fx25hqbyd.onion
 yohi.cc
 77.221.137.132.sslip.io
+updates-check-microsoft.ddns.net
+catalog-update-update-microsoft.serveftp.com
+healthyeatingontherun.com
+brightvideodesigns.com
+hotelsitereview.com
+projectmanagerskills.com
