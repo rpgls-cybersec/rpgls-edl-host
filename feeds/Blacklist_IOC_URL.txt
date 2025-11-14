@@ -4089,3 +4089,6 @@ chatg31-10.netlify.app/chatgpt.exe
 kuchiku.digital/d
 birancearea.com/adminv2
 hiremployee.com
+www.microsoft365.sangellobrighthouse.com/microsoft365/Application%20Files/Microsoft_1_0_0_9/Microsoft.exe.deploy
+www.microsoft365.sangellobrighthouse.com/microsoft365/Application%20Files/Microsoft_1_0_0_9/ms.ico.deploy
+www.microsoft365.sangellobrighthouse.com/microsoft365/Application%20Files/Microsoft_1_0_0_9/Launcher.exe.deploy
