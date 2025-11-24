@@ -4165,3 +4165,15 @@ anydesck.net/download/fhst.pdf
 38.60.199.102:8111/Bts5.exe
 microsoft.devq.workers.dev/newms.exe
 zapgrande.com/api/itbi/BrDLwQ4tU70zZUeEHSSimym64kqXVG39
+45.159.189.85/api/microsoft/update/be53ff4f4b5daa.exe
+45.159.189.85:7878/5df03f95b4ff4f4b5dabe53a5a1e15d7
+45.159.189.85/api/microsoft/update/updater.ps1
+45.159.189.85/zvit.hta
+45.159.189.85/api/microsoft/update/ff4f4b5dabe53a.exe
+185.223.93.102/c2/get_commands/
+185.223.93.102/c2/command_out/
+45.159.189.85/api/microsoft/update/svshosts.exe
+varegjopeaks.com/altor/whats.py
+varegjopeaks.com/altor/installer.msi
+centrogauchodabahia123.com/altor/installer.msi
+varegjopeaks.com/altor/teste_obscado.vbs
