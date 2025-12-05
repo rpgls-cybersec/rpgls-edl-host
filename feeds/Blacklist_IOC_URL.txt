@@ -4211,3 +4211,10 @@ tr.ee/D78rsWVQn8
 prosecontas.pt/Payment_invoice.msi
 omvexe.shop//
 s3.eu-north-1.amazonaws.com/secure.view/handbook.html
+103.149.93.224/bins/Mddos.x86_64
+103.149.93.224/bins/Mddos.mips
+103.149.93.224/bins/Mddos.arm5
+103.149.93.224/bins/Mddos.arm7
+auto.c3pool.org:19999/
+103.149.93.224/bins/Mddos.mpsl
+103.149.93.224/bins/Mddos.arm64
