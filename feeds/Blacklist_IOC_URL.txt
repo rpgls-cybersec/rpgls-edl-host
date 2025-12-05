@@ -4218,3 +4218,5 @@ s3.eu-north-1.amazonaws.com/secure.view/handbook.html
 auto.c3pool.org:19999/
 103.149.93.224/bins/Mddos.mpsl
 103.149.93.224/bins/Mddos.arm64
+jvkpexgkuaw5toiph7fbgucycvnafaqmfvakymfh5pdxepvahw3xryqd.onion/login
+b2ykcy2gcug4gnccm6hnrb5xapnresmyjjqgvhafaypppwgo4feixwyd.onion/login
