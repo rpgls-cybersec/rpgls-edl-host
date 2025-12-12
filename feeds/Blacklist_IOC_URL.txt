@@ -4292,3 +4292,10 @@ raw.githubusercontent.com/C3Pool/xmrig_setup/master/setup_c3pool_miner.sh
 95.169.180.135:8443/pamssod
 res.qiqigece.top/nginx1
 115.42.60.223:61236/slt
+144.172.104.117:5918/upload
+tetrismic.vercel.app/api/ipcheck
+144.172.104.117:5918/output
+144.172.104.117:5918/command
+144.172.104.117:5918/api/service/process
+144.172.104.117:5918/clip
+144.172.104.117:5918/total
