@@ -9522,3 +9522,11 @@ obnovintfx.help
 netfx-actualizar.com
 renew-netfix.com
 telenet-flix.com
+api.qtss.cc
+api.healthylifefeed.com
+api.technology-system.com
+forum.technoforts.com
+auth.onlinefieldtech.com
+api.softmatictech.com
+forum.techtg.com
+apiv2.onlinefieldtech.com
