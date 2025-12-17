@@ -4361,3 +4361,9 @@ titanarmyrary.today/uploads/2025/10/pe/gpu_optimyzer.exe
 py-installer.cc/
 176.65.132.123/file_cache.exe
 www.diadelosmuertos.events/formInterstice.exe
+67.217.57.240:5656/health
+67.217.57.240:5656/stats
+67.217.57.240:666/files/react.py
+67.217.57.240:5656/result
+67.217.57.240:5656/domains
+67.217.57.240:666/files/proxy.sh
