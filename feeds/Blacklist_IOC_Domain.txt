@@ -9531,3 +9531,4 @@ api.softmatictech.com
 forum.techtg.com
 apiv2.onlinefieldtech.com
 www.liveupdt.com
+portabalbufe.com
