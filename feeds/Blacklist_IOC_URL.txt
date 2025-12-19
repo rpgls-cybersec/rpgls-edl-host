@@ -4368,3 +4368,10 @@ www.diadelosmuertos.events/formInterstice.exe
 67.217.57.240:5656/domains
 67.217.57.240:666/files/proxy.sh
 archive.org/download/optimized_msi_20250821/optimized_MSI.png
+207.254.22.248:8800/
+23.27.140.49:8080/
+149.28.139.62:8080/
+119.6.56.194:9999/
+trustpointassurance.com
+previewcentral.com/
+fastwaycheck.com/
