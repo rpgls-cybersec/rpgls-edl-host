@@ -4400,3 +4400,6 @@ github.com/h4xnz/CVE-2025-10294-POC
 shopsleta.ru/ 
 
 github.com/usjnx72726w/CVE-2025-59295/tree/main"
+5.101.85.24/k4s/spear.ps1
+5.101.85.24/k4s/tune.ps1
+5.101.85.24/smoothieks.zip
