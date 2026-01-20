@@ -9700,3 +9700,7 @@ eclectic-cupcake-fd4922.netlify.app
 download02.pdfgj.com
 fullpdf.com
 download04.pdfgj.com
+admin.software-access.com
+api.software-access.com
+api.databycloud.com
+user.software-access.com
