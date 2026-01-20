@@ -4418,3 +4418,6 @@ webhook.site/ff237e88-cbaf-4b0b-b787-6e2f1f2c926f
 dl.dropboxusercontent.com/scl/fi/50mvsqpvyxid7m39g773l/Rechnung-zu-Auftrag-W19248960825.pdf.zip?rlkey=rtgatrazvz9rbqtxbj9rtf7os&st=t318uel6&dl=0
 dl.dropboxusercontent.com/scl/fi/5uvu1977pm1v8e5w9dujx/LEXWARE0019.pdf.zip?rlkey=n9y56p52jbsgujjk84pnvdrrf&st=fqekaosq&dl=0
 94.159.113.32/service
+portal.manualfinder.app/sapi/iidsuccesssrc\main.rs
+vault.appsuites.ai/AppSuite-PDF.msi
+portal.manualfinder.app/sapi/reg
