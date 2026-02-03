@@ -9785,3 +9785,13 @@ tdkfsdfa.cnmseo.com
 tz.ohtcm.com
 w3c.sneaws.com
 tz.jmfwy.com
+user.kangaroosim.com
+cf1-winows-ww.com
+sync-time-win.live
+dns-teams-windows.live
+time-syncmicrosoft.com
+eventsdatamicrosoft.org
+settings-win-datamicrosoft.org
+settings-datamicrosoft.org
+assets-msnds.org
+microsoft-iplcloud.com
