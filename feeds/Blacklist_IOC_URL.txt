@@ -4523,3 +4523,9 @@ cdncheck.it.com/api/getInfo/v1
 95.179.213.0/update/AutoUpdater.exe
 95.179.213.0/update/update.exe
 safe-dns.it.com/resolve
+api.telegram.org/bot7900216285:AAEVjLjt4csUKGanerJuuiDhdsmlUv0yooM/getChatMember?user_id=874675833&chat_id=874675833
+128.199.113.162/XtfcshEgt/upwawsfrg.php
+128.199.113.162/zawautng.php
+104.248.194.233:443/
+128.199.113.162/awautng.php
+128.199.113.162/stwittc/upwawsfrg.php
