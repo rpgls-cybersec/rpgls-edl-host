@@ -4566,3 +4566,9 @@ dydx.priceoracle.site/py
 stomcs.com/inc/register.php?req=next
 sevrrhst.com/inc/register.php?req=next
 techcross-es.com/
+"vdfccjpnedujhrzscjtq.supabase.co/storage/v1/object/public/image/v4.msi 
+
+Vdfccjpnedujhrzscjtq.supabase.co"
+"auth.qgtxtebl.workers.dev/ 
+
+Auth.qgtxtebl.workers.dev"
