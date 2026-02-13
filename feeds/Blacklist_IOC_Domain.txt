@@ -9994,3 +9994,5 @@ zest.hero-sms.ai
 mint.smshero.com
 glide.smshero.cc
 gsm.ftp.sh
+codepool.cloud
+aurevian.cloud
